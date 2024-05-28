@@ -2,7 +2,7 @@ Hi 👋 My name is Rugved Deshmukh
 ================================
 -------------------------------------------
 
-I started coding back in 2011, with VisualBASIC, moving on to stuff like C++, UE4, and Java. I started Python about 3 years ago, and I try to learn a lot using it every day, I'm well versed in various Game Dev utilities and Design utilities, and worked as a freelance video editor for a bit too! Still learning, but I'm confident I can handle tasks out of my skill range with ease, working on a few independent projects right now in fact! I love anime and gaming tons too!
+I started coding back in 2011, with VisualBASIC, moving on to stuff like C++, UE4, and Java. I started Python about 3 years ago, and I try to learn a lot using it every day, I'm well versed in various Game Dev utilities and Design utilities, and worked as a freelance web developer and video editor for a bit too! Still learning, but I'm confident I can handle tasks out of my skill range with ease, working on a few independent projects right now in fact! I love anime and gaming tons too!
 
 * 🌍  I'm based in Bangalore, India
 * ✉️  You can contact me at [rugu9000@gmail.com](mailto:rugu9000@gmail.com)
