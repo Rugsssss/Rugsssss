@@ -10,11 +10,6 @@ I started coding back in 2011, with VisualBASIC, moving on to stuff like C++, UE
 * 🤝  I'm open to collaborating on anything, if I find it interesting, I'm down!
 * ⚡  In 2018, I was officially the 4th Best in the World at Microsoft PowerPoint 2016.
 
-<a href="https://www.twitter.com/Ruguuuuuuuu" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Ruguuuuuuuu?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/Rugsssss" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Rugsssss?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/lelouch_val" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/lelouch_val?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
 
